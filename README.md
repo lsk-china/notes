@@ -1,2 +1,5 @@
-# notes
-All kinds of notes (?
+# Notes
+
+​	lsk_china在折腾各种奇奇怪怪的东西的时候遇到的一些问题等
+
+​	别问，问就是懒得搭blog，反正咱也不天天写这玩意（（（
